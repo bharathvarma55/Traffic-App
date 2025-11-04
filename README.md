@@ -7,8 +7,8 @@ It includes **real-time visualization**, **alert systems**, and **interactive ch
 
 ## 🌐 Live Application
 
-👉 **[Launch App on Streamlit](https://traffic-app-wh8nas3ke2hashabcszx9m.streamlit.app/)**  
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://traffic-app-wh8nas3ke2hashabcszx9m.streamlit.app/)
+👉 **[Launch App on Streamlit](https://traffic-app-bharathvarma55.streamlit.app/)**  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://traffic-app-bharathvarma55.streamlit.app/)
 
 ---
 
